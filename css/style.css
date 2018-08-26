@@ -1,0 +1,678 @@
+/**** Medias queries 1366 width ****/
+@media screen and (max-width: 1366px) {
+    body {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        font-family: 'Amatic SC', cursive;
+    }
+
+    header {
+        padding-bottom: 140px;
+    }
+
+    .w, .c {
+        color: #4BBDD9;
+        font-size: 4rem;
+    }
+
+    .i, .d, .s {
+        color: #F85C54;
+        font-size: 3rem;
+    }
+
+    .l, .r, .u {
+        color:#F9ECE8;
+        font-size: 3.3rem;
+    }
+
+    .img-montgolfiere {
+        padding-top: 25px;
+        padding-left: 25%;
+        width: 35%;
+    }
+
+    /**** Navigation ****/
+    .nav {
+        padding-top: 40px;
+        position: absolute;
+        padding-left: 40%;
+    }
+    /**** end Navigation ****/
+
+    .banner {
+        background: url(https://res.cloudinary.com/djamanuzo/image/upload/v1535270441/banner-wildcodeschool-1366.jpg) no-repeat;
+        height: 400px;
+        padding-bottom: 30px;
+    }
+
+    h2 {
+        font-size: 2.2rem;
+    }
+
+    .li-item {
+        font-size: 1.5rem;
+    }
+
+    /**** About ****/
+    #about {
+        height: 730px;
+    }
+
+    .div-block-about {
+        height: 288.9px;
+        background: #A0C7DF;
+    }
+
+    .div-about {
+        height: 150px;
+        background: #A0C7DF;
+    }
+
+    .div-about1 {
+        width: 288.99px;
+        position: absolute;
+        background: #A0C7DF;
+        height: 150px;
+    }
+
+    .p-about {
+        padding-left: 430px;
+        padding-top: 50px;
+        font-size: 1.4rem;
+        font-weight: 900;
+    }
+
+    .p-about2 {
+        font-weight: 900;
+        width: 39%;
+        margin-left: 230px;
+    }
+
+    .p-about3 {
+        padding: 20px 0px 0px 610px;
+        font-size: 1rem;
+        font-weight: 900;
+        margin: 0;
+    }
+
+    .p2-about {
+        margin-left: 430px;
+        width: 39%;
+        line-height: 1.4;
+    }
+
+    .p2-about2 {
+        width: 39%;
+        margin-left: 230px;
+    }
+
+    .p2-about3 {
+        width: 19%;
+        margin-left: 610px;
+    }
+
+    .img-about2 {
+        float: left;
+        position: absolute;
+        width: 200px;
+        height: 150px;
+    }
+
+    .img-about3 {
+        float: left;
+        position: absolute;
+        width: 200px;
+        height: 150px;
+        margin-left: 385.2px;
+    }
+    /**** end About ****/
+
+    table {
+        border-spacing: 120px 0px;
+    }
+
+    .p-children {
+        padding-left: 19%;
+    }
+
+    .img-wheel {
+        margin-left: 30%;
+        width: 46%;
+    }
+}
+/**** end Medias queries 1366 width ****/
+
+
+/**** Medias queries 1920 width ****/
+@media screen and (min-width: 1920px) {
+    body {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        font-family: 'Amatic SC', cursive;
+    } 
+
+    header {
+        padding-bottom: 170px;
+    } 
+
+    .banner {
+        background: url(https://res.cloudinary.com/djamanuzo/image/upload/v1535270648/banner-wildcodeschool.jpg) no-repeat;
+        height: 500px;
+        margin-bottom: 70px;
+    }
+
+    .w, .c {
+        color: #4BBDD9;
+        font-size: 5.7rem;
+    }
+
+    .i, .d, .s {
+        color: #F85C54;
+        font-size: 4.5rem;
+    }
+
+    .l, .r, .u {
+        color:#F9ECE8;
+        font-size: 5.1rem;
+    }
+
+    .img-montgolfiere {
+        padding-top: 35px;
+        padding-left: 25%;
+        width: 35%;
+    }
+
+    /**** Navigation ****/
+    .nav {
+        padding-top: 55px;
+        position: absolute;
+        margin-left: 50%;
+    }
+    /**** end Navigation ****/
+
+    h2 {
+        font-size: 3rem;
+    }
+
+    .li-item {
+        font-size: 1.9rem;
+    }
+
+    /**** About ****/
+    #about {
+        height: 960px;
+    }
+
+    .div-block-about {
+        height: 403.2px;
+        background: #A0C7DF;
+    }
+
+    .div-about {
+        height: 216px;
+        background: #A0C7DF;
+    }
+
+    .div-about1 {
+        width: 541.433px;
+        position: absolute;
+        background: #A0C7DF;
+        height: 216px;
+    }
+
+    .p-about {
+        position: absolute;
+        padding-left: 592px;
+        padding-top: 10px;
+        font-size: 1.4rem;
+        font-weight: 900;
+    }   
+
+    .p-about2 {
+        margin: 0;
+        padding: 25px 0px 0px 320px;
+        font-size: 1.4rem;
+        font-weight: 900;
+    }
+
+    .p-about3 {
+        padding: 25px 0px 0px 870px;
+        font-size: 1.4rem;
+        font-weight: 900;
+        margin: 0;
+    }  
+    
+    .p2-about {
+        width: 40%;
+        margin-left: 594px;
+        padding-top: 80px;
+        line-height: 1.5;
+    }   
+
+    .p2-about2 {
+        width: 30%;
+        margin-left: 320px;
+        line-height: 1.5;
+    }
+
+    .p2-about3 {
+        width: 18%;
+        margin-left: 872px;
+        line-height: 1.5;
+    }
+
+    .img-about2 {
+        float: left;
+        position: absolute;
+        width: 288px;
+        height: 216px;
+    }
+
+    .img-about3 {
+        float: left;
+        position: absolute;
+        width: 288px;
+        height: 216px;
+    }
+    /**** end About ****/
+
+    table {
+        border-spacing: 150px 0px;
+    }
+
+    .p-children {
+        padding-left: 25%;
+    }
+
+    .img-wheel {
+        width: 37%;
+    }
+}
+/**** end Medias queries 1920 width ****/
+
+
+/**** Global CSS ****/
+
+h1 {
+    position: absolute;
+    padding-left: 10%;
+}
+
+h1>a {
+    text-decoration: none;
+}
+
+h2 {
+    color: #F85C54;
+    font-weight: 600;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+h3 {
+    font-size: 1.9rem;
+    color: #000;
+    font-weight: 900;
+    padding-bottom: 15px;
+}
+
+h2, h3 {
+    text-align: center;
+}
+
+ul {
+    padding-top: 0px;
+}
+
+button {
+    background: #F85C54;
+    border: none;
+    padding: 3px 15px;
+    font-family: 'Amatic SC', cursive;
+    font-size: 1.2rem;
+    border-radius: 3px;
+}
+
+button:hover {
+  color: #ffffff;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+/**** Diagonal lines ****/
+.diagtop {
+    background: #F5F5EB;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 720px;
+    transform: skewY(4deg);
+}
+
+.diagbottom {
+    background: #F5F5EB;
+    height: 400px;
+    transform: skewY(-4deg);
+}
+/**** end Diagonal lines ****/
+
+/**** end Global CSS ****/
+
+
+/**** Logo ****/
+.w, .i, .l, .d, .c, .r, .u, .s {
+    padding: 0 5px;
+}
+/**** end Logo ****/
+
+
+/**** Montgolfiere ****/
+.montgolfiere {
+    display: inline-block;
+    position: absolute;
+    margin-left: 80%;
+}
+/**** end Montgolfiere ****/
+
+
+/**** Item ****/
+.li-item {
+    display: inline-block;
+    font-family: 'Amatic SC', cursive;
+    font-weight: 700;
+    padding: 0 25px 0 25px;
+}
+
+.li-item>a {
+
+    color: #F85C54;
+    text-decoration: none
+}
+
+.li-item>a:hover {
+    border-bottom: 2px solid #F85C54;
+}
+/**** end Item ****/
+
+
+/**** Performances ****/
+#performances {
+    padding-top: 60px;
+}
+
+.img-section-performances {
+    width: 100%;
+}
+
+.li-perf {
+    display: inline-block;
+    padding-left: 4%;
+    padding-right: 4%;
+    width: 25%;
+    list-style: none;
+}
+
+.li-perf>p {
+    text-align: justify;
+    float: left;
+    font-size: 1.2rem;
+}
+
+.ul-perf {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 90px;
+    -moz-transform: rotate(-4deg);
+    -webkit-transform: skewY(-4deg);
+    transform: skewY(-4deg);
+}
+/**** end Performances ****/
+
+
+/**** About ****/
+#about {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 120px;
+    text-align: justify;
+}
+
+.img-about {
+    float: left;
+    width: 47%;
+}
+
+.img-about-1 {
+    float: left;
+    width: 20%;
+    position: absolute;
+    margin-left: 4%;
+    border-radius: 50%;
+}
+
+.img-about-2 {
+    float: right;
+    width: 20%;
+    margin-top: 18%;
+    position: absolute;
+    margin-left: 57%;
+    border-radius: 50%;
+}
+
+.img-about-3 {
+    float: left;
+    width: 20%;
+    position: absolute;
+    margin-top: 36%;
+    margin-left: 4%;
+    border-radius: 50%;
+}
+/**** end About ****/
+
+
+/**** Prices ****/
+.table-prices {
+    padding-left: 10%;
+    padding-right: 10%;
+    margin: 0 auto;
+}
+
+.table-prices-2 {
+    padding-left: 10%;
+    padding-right: 10%;
+    margin: 0 auto;
+}
+
+.title-prices {
+    border: 2px dotted #54C9E2;
+    color: #000;
+    border-radius: 50%;
+}
+
+caption {
+    color: #54C9E2;
+    font-weight: 800;
+    font-size: 2rem;
+    margin-bottom: 80px;
+}
+
+.table-prices-2>caption {
+    padding-top: 90px;
+}
+
+td {
+    text-align: center;
+    background: #F85C54;
+    width: 125px;
+}
+
+.td-button {
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.td-prices {
+    font-size: 2rem;
+    color: #F85C54;
+    padding-top: 30px;
+}
+
+.td-title {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding-top: 10px;
+}
+
+.td-title, .td-prices {
+    font-weight: 600;
+    text-align: center;
+    color: #ffffff;
+}
+
+.td-title-gpe {
+    font-weight: 600;
+    text-align: center;
+    color: #ffffff;
+}
+
+.td-title, .td-title-gpe {
+    font-size: 1.5rem;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.button-ticket {
+    background: none;
+    border: 1px solid #ffffff;
+    padding: 5px 15px;
+    border-radius: 3px;
+    cursor: pointer;
+    font-family: 'Amatic SC', cursive;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-weight: 600;
+    line-height: .95em;
+    font-size: 1.2rem;
+    color: #ffffff;
+}
+
+.button-ticket:hover {
+      background: #ffffff;
+      color: #F85C54;
+      font-weight: 600;
+}
+
+.p-children {
+    padding-top: 15px;
+    padding-bottom: 100px;
+}
+/**** end Prices ****/
+
+
+/**** Contact ****/
+form {
+    margin: 0 auto;
+    width: 500px;
+    padding: 1em;
+}
+
+label {
+    display: inline-block;
+    width: 90px;
+    text-align: right;
+    font-size: 1.4rem;
+    font-weight: 500;
+}
+  
+input, textarea {
+    font-family: 'Amatic SC', cursive;
+    font-weight: 500;
+    font-size: 1.2rem;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px solid #F85C54;
+}
+
+input:focus, textarea:focus {
+    border-color: #000;
+}
+
+input.inputmail {
+    width: 300px;
+}
+
+textarea {
+    vertical-align: top;
+    height: 5em;
+    position: absolute;
+    margin-left: 4px;
+    width: 500px;
+    background: #F5F5EB;
+}
+
+.inputname, .inputmail {
+    background: #F5F5EB;
+}
+
+.divname {
+    float: left;
+}
+
+.divmail {
+    position: absolute;
+    margin-left: 200px;
+}
+
+.divmsg {
+    margin-top: 50px;
+}
+  
+.button {
+    padding-left: 438px;
+    padding-top: 20px;
+}
+
+.div-wheel {
+    position: absolute;
+    margin-left: 72%;
+}
+
+.divform, .div-wheel {
+    -moz-transform: rotate(4deg);
+    -webkit-transform: skewY(4deg);
+    transform: skewY(4deg); 
+    padding-top: 100px;
+}
+/**** end Contact ****/
+
+
+/**** Footer ****/
+footer {
+    text-align: center;
+    padding-top: 70px;
+}
+
+footer>p {
+    font-size: 1.3rem;
+}
+
+.sign {
+    margin-right: 30px;
+}
+
+.ioi {
+    width: 2%;
+    padding: 0 10px 0 10px;
+}
+
+.solo, .wcs {
+    width: 1.6%;
+    padding: 0 10px 0 10px;
+    margin: -4px;
+}
+/**** end Footer ****/
+
+
+
